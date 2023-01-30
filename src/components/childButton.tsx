@@ -1,5 +1,5 @@
-import { Button, useThemeProps } from "@mui/material";
-import { MouseEventHandler, useEffect, useState } from "react";
+import { Button } from "@mui/material";
+import { MouseEventHandler } from "react";
 
 interface ChildProps {
     count: number,
